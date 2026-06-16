@@ -38,7 +38,7 @@ Mobile version of the legendary "You Are An Idiot"! Just a harmless joke for you
 
 ## 📥 Download
 
-Download the latest APK from **[Releases](https://github.com/Derty5423/You-Are-An-Idiot-Android-Prank/releases)**
+Download the latest APK from **[Releases](https://github.com/Derty5432/You-Are-An-Idiot-Android-Prank/releases)**
 
 ---
 
@@ -138,7 +138,7 @@ Just to troll your friend! Classic internet meme in mobile version. Nobody gets 
 5. Через 30 секунд покажите как выйти
 6. Смейтесь вместе!
 
-**Скачать:** [Releases](https://github.com/YOUR_USERNAME/You-Are-An-Idiot-Android-Prank/releases)
+**Скачать:** [Releases](https://github.com/Derty5432/You-Are-An-Idiot-Android-Prank/releases)
 
 ---
 
