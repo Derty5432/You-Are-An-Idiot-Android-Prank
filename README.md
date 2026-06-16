@@ -1,4 +1,4 @@
-# 🤡 You Are An Idiot - Android Prank
+# You Are An Idiot - Android Prank
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
 [![Made with](https://img.shields.io/badge/Made%20with-Sketchware%20Pro-blue.svg)]()
